@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.AnchorPane?>
+
+
+<Button fx:id="btnPrintHello" mnemonicParsing="false" prefHeight="110.0" prefWidth="119.0" text="Print Hello" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" />
